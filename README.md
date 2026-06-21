@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Sudheshna Gaddam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=700&lines=Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;GenAI+Enthusiast;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=AI+%26+ML+Student;Full+Stack+Developer;GenAI+Enthusiast" />
 
 ## 📝 About Me
 👩‍🎓 I'm a passionate Final Year B.Tech CSE student specializing in AI & ML.  
