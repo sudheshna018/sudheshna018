@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Sudheshna Gaddam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=435&lines=Final+Year+B.Tech+CSE+%28AI+%26+ML%29+Student;GenAI+Enthusiast;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=700&lines=Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;GenAI+Enthusiast;Full+Stack+Developer" />
 
 ## 📝 About Me
 👩‍🎓 I'm a passionate Final Year B.Tech CSE student specializing in AI & ML.  
@@ -32,13 +32,11 @@
 </div>
 
 ## 🚀 Featured Projects
-<div align="left">
-  🤖 <strong>InterviewPro</strong> – AI-powered interview question generator using Gemini Flash and Whisper.<br><br>
+🤖 **InterviewPro** – AI-powered interview question generator using Gemini Flash and Whisper.
 
-  🌿 <strong>AI Plant Disease Detection System</strong> – React, Node.js, MongoDB, MobileNet CNN.<br><br>
+🌿 **AI Plant Disease Detection System** – React, Node.js, MongoDB, MobileNet CNN.
 
-  🧠 <strong>Brain Tumor Classification</strong> – ResNet and Vision Transformer.
-</div>
+🧠 **Brain Tumor Classification** – ResNet and Vision Transformer.
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -53,12 +51,12 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=tokyonight" width="350" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=onedark&row=1&column=6" width="350" />
 </div>
 
 ## 👀 Visitor Counter
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sudheshna018/count.svg" />
+ <img src="https://komarev.com/ghpvc/?username=sudheshna018&label=Profile%20Views&color=blueviolet&style=flat" />
 </div>
 
 ## 🤝 Connect With Me
