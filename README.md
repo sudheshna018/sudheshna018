@@ -53,10 +53,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheshna018&theme=tokyonight" width="350" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=algolia&row=1&column=6&no-frame=true" />
-</div>
+## 🌱 Currently Learning
+
+🚀 React.js and Node.js
+
+🤖 Generative AI and LLM Applications
+
+☁️ Cloud & Docker
+
+📚 Data Structures and Algorithms
 
 ## 👀 Visitor Counter
 <div align="center">
