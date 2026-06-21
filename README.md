@@ -5,9 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=AI+%26+ML+Student;Full+Stack+Developer;GenAI+Enthusiast" />
 
 ## 📝 About Me
-👩‍🎓 I'm a passionate Final Year B.Tech CSE student specializing in AI & ML.  
-💻 I love developing full-stack applications and exploring the latest advancements in Generative AI.  
-🌱 Always eager to learn and grow in the tech field!
+🎓 Final Year B.Tech CSE (AI & ML) Student
+
+💡 Passionate about Generative AI, NLP and Full Stack Development
+
+🚀 Building AI-powered applications and exploring LLMs
+
+🌱 Continuously learning and improving
 
 ## 💻 Tech Stack
 <div align="center">
@@ -51,7 +55,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=algolia&row=1&column=6&no-frame=true" />
 </div>
 
 ## 👀 Visitor Counter
