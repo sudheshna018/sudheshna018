@@ -51,7 +51,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=onedark&row=1&column=6" width="350" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudheshna018&theme=algolia" />
 </div>
 
 ## 👀 Visitor Counter
